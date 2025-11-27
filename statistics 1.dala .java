@@ -27,4 +27,4 @@ public class Statistics {
         }
         return (double) this.sum / this.count;
     }
-}
+}\
